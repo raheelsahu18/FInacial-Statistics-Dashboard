@@ -1,1 +1,1 @@
-# FInacial-Statistics-Dashboard
+# Financial-Statistics-Dashboard
